@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# Simulation files
+*.vcd
+*.vvp
+*.out
+*.log
+*.dump
+
+# Build artifacts
+*.o
+*.exe
+
+# Temporary files
+*.tmp
+*.swp
